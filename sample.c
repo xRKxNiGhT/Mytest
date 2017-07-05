@@ -3,8 +3,8 @@ int main()
 {
 	printf("Hello World");
 
-	printf("neuer text");
+	printf("awsome text");
 
-	fehöer?
+
 	return 0;
 }
